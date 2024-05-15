@@ -62,3 +62,16 @@ Clean the data by:
 End result will be three cleaned data set :
 
 🔹[Reaction Type](https://drive.google.com/file/d/1A-Usd3UjtkYCDRNbeDCqQRwRb46vCCaQ/view?usp=drive_link)
+🔹[Reaction](https://drive.google.com/file/d/1_o-KkKUOzir0CKmLZbM1ihsCC1dwAVi0/view?usp=drive_link)
+🔹[Content](https://drive.google.com/file/d/138pAkoVBczBHYxdCUD9RG8iQ8f4GaRE4/view?usp=drive_link)
+
+#### Data Modeling
+
+Create a final data set by merging 3 tables and end result will be one spreadsheet
+
+🔹A cleaned dataset
+🔹Top 5 categories
+
+So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://docs.google.com/spreadsheets/d/1qcpela6NSbmOW-sv-gnGsgoY0qwSI4gh/edit?usp=drive_link&ouid=101672378480621843698&rtpof=true&sd=true)
+
+
