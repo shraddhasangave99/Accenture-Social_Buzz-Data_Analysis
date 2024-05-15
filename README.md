@@ -29,9 +29,9 @@ Meet Accenture Project Team:-
 
 #### Task for Data Analyst :-
 
-1) Analysis of sample data sets with visualizations to understand the popularity of different content categories.
+🔹 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
-2) In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
+🔹 In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
 ## Task- 2
 ### Data Cleaning & Modeling
@@ -47,9 +47,9 @@ Meet Accenture Project Team:-
 4. Content type
 5. Category
 
-#### Data Cleaning
+#### Data Cleaning:
 
-Clean the data by:
+Clean the data by:-
 
 1.Removing rows that have values which are missing.
 
@@ -65,7 +65,7 @@ End result will be three cleaned data set :
 🔹[Reaction](https://drive.google.com/file/d/1_o-KkKUOzir0CKmLZbM1ihsCC1dwAVi0/view?usp=drive_link)
 🔹[Content](https://drive.google.com/file/d/138pAkoVBczBHYxdCUD9RG8iQ8f4GaRE4/view?usp=drive_link)
 
-#### Data Modeling
+#### Data Modeling:
 
 Create a final data set by merging 3 tables and end result will be one spreadsheet
 
