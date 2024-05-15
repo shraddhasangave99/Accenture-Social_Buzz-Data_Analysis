@@ -84,7 +84,7 @@ Charts Involved :
 🔹Pie Chart
 🔹Bar Chart
 
-  [View Project PPT](https://docs.google.com/presentation/d/1R1xVLI3-OJxFcBWT8VANHrmnulMYt4bY/edit?usp=drive_link&ouid=101672378480621843698&rtpof=true&sd=true)
+  [View Project PPT](https://drive.google.com/file/d/1T1376F0d3c5no13jOQJtpFVIQdjyGwn0/view?usp=drive_link)
 
 ## Task- 4
 ### Present to the Client
