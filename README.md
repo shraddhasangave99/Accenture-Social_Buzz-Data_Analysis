@@ -35,5 +35,14 @@ Task for Data Analyst :-
 
 ## Task- 2
 ### Data Cleaning & Modeling:
-[Data model.pdf](https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/files/15316665/Data.model.pdf)
+🔹Often you won’t need all these datasets to find what you’re looking for.
+
+🔹So, the first step is to use this [data model](https://drive.google.com/file/d/1EsW1pSPR3tby8gMk4uHMPSfvPVYbu2pA/view?usp=drive_link) to identify which datasets will be required to answer your business question which is to to figure out the top 5 categories with the largest popularity.
+🔹After Analysis we got data sets needed to complete analysis:
+
+1. Reaction Score(score is used to quantified the popularity)
+2. Content ID
+3. Reaction Types
+4. Content type
+5. Category
 
