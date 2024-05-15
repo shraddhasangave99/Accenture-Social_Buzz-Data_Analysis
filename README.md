@@ -3,4 +3,5 @@ As I have done virtual hands on practice on project with Accenture North America
 
 🌟 Task: As a data analyst in the Accenture’s data analytics team, the task was merging of sample data set tables, and An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
 
-![Image](https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/5f15af68-7612-432f-ac59-b47d6d7e0369)
+![Img](https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/bb89489d-21c4-47af-afeb-119c1b797396)
+
