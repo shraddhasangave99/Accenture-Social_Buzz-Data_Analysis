@@ -51,13 +51,13 @@ Meet Accenture Project Team:-
 
 Clean the data by:-
 
-1.Removing rows that have values which are missing.
+  1.Removing rows that have values which are missing.
 
-2.Changing the data type of some values within a column.
+  2.Changing the data type of some values within a column.
 
-3.Removing columns which are not relevant to this task.
+  3.Removing columns which are not relevant to this task.
 
-4.Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+  4.Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 
 End result will be three cleaned data set :
 
@@ -74,4 +74,20 @@ Create a final data set by merging 3 tables and end result will be one spreadshe
 
 So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://docs.google.com/spreadsheets/d/1qcpela6NSbmOW-sv-gnGsgoY0qwSI4gh/edit?usp=drive_link&ouid=101672378480621843698&rtpof=true&sd=true)
 
+## Task- 3
+### Data Visualization and Storytelling
 
+Make the Powerpoint presentation as per the given template
+
+Charts Involved :
+
+🔹Pie Chart
+🔹Bar Chart
+
+  [View Project PPT](https://docs.google.com/presentation/d/1R1xVLI3-OJxFcBWT8VANHrmnulMYt4bY/edit?usp=drive_link&ouid=101672378480621843698&rtpof=true&sd=true)
+
+## Task- 4
+### Present to the Client
+
+Present your powerpoint presentation to the client and deliver the insights of your analysis
+ [View Video of the Presentation](
