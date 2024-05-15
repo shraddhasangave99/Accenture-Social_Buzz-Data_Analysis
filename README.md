@@ -8,36 +8,37 @@ As I have done virtual hands on practice on project with Accenture North America
 ![Img](https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/bb89489d-21c4-47af-afeb-119c1b797396)
 
 ## Task - 1
-### Project Understanding:
+### Project Understanding
 
-One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
+🔹One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
 
-She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
+🔹She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
 
 About Client Brief : [Social Buzz](https://drive.google.com/file/d/1MWuo4xG2-PwrKssaIewkR9fbZ3fAyD46/view?usp=drive_link)
 
-Task for Accenture :-
+#### Task for Accenture :-
 
-Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
+🔹Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
 
-Three requirements that Accenture is tasked to fulfill :- 
+🔹Three requirements that Accenture is tasked to fulfill :- 
 1. Audit of big data practice  2. recommendations for IPO  3.analysis of popular content.
 
 Meet Accenture Project Team:-
 
 ![Internal stakeholder chart_page-0001](https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/da5bd83b-066c-402d-8088-d69bd36510bb)
 
-Task for Data Analyst :-
+#### Task for Data Analyst :-
 
 1) Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
 2) In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
 ## Task- 2
-### Data Cleaning & Modeling:
+### Data Cleaning & Modeling
 🔹Often you won’t need all these datasets to find what you’re looking for.
 
-🔹So, the first step is to use this [data model](https://drive.google.com/file/d/1EsW1pSPR3tby8gMk4uHMPSfvPVYbu2pA/view?usp=drive_link) to identify which datasets will be required to answer your business question which is to to figure out the top 5 categories with the largest popularity.
+🔹So, the first step is to use this [Data Model](https://drive.google.com/file/d/1EsW1pSPR3tby8gMk4uHMPSfvPVYbu2pA/view?usp=drive_link) to identify which datasets will be required to answer your business question which is to to figure out the top 5 categories with the largest popularity.
+
 🔹After Analysis we got data sets needed to complete analysis:
 
 1. Reaction Score(score is used to quantified the popularity)
@@ -46,3 +47,18 @@ Task for Data Analyst :-
 4. Content type
 5. Category
 
+#### Data Cleaning
+
+Clean the data by:
+
+1.Removing rows that have values which are missing.
+
+2.Changing the data type of some values within a column.
+
+3.Removing columns which are not relevant to this task.
+
+4.Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+
+End result will be three cleaned data set :
+
+🔹[Reaction Type](https://drive.google.com/file/d/1A-Usd3UjtkYCDRNbeDCqQRwRb46vCCaQ/view?usp=drive_link)
